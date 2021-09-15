@@ -1,7 +1,7 @@
 # Landing Page Project
 - This is the *second* project in the Front-End Nanodegree from udacity
 - This Project focuses on the manipulation of DOM using JavaScript
-
+LIVE PREVIEW [HERE](https://marinakhamis.github.io/FEND-02-Landing-Page/index.html)
 ## Starter code
 I didn't build this project from scratch, I used Udacity's starter code from here https://github.com/udacity/fend/tree/refresh-2019
 
